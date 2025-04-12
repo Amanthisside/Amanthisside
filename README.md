@@ -1,5 +1,5 @@
 ## Hey there Coders!
- As you already its Amanthisside !🚀
+ As you already figured it out through my Username , its Amanthisside !🚀
  - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on developing Projects.
 - 🌱 I’m currently learning and building Projects to develop my skills.
