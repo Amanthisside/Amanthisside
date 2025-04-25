@@ -49,9 +49,9 @@ DM me "✨foundit" on Twitter @amanthisside to say hi 😄
 
 ## 🚀 Explore the cosmos with these stunning images!
 
-![Space Image 1](https://github.com/Amanthisside/Amanthisside/blob/main/images/space1.jpg?raw=true)
-![Space Image 2](https://github.com/Amanthisside/Amanthisside/blob/main/images/space2.jpg?raw=true)
-![Space Image 3](https://github.com/Amanthisside/Amanthisside/blob/main/images/space3.jpg?raw=true)
+![Space Image 1](https://github.com/Amanthisside/Amanthisside/blob/main/images/16336_5.jpg?raw=true)
+![Space Image 2](https://github.com/Amanthisside/Amanthisside/blob/main/images/20084.jpg?raw=true)
+![Space Image 3](https://github.com/Amanthisside/Amanthisside/blob/main/images/360_F_559594211_HOFvnMPbMmGSou7iOKz36JOnYFKbO8tF.jpg?raw=true)
 ![Space Image 4](https://github.com/Amanthisside/Amanthisside/blob/main/images/space4.jpg?raw=true)
 ![Space Image 5](https://github.com/Amanthisside/Amanthisside/blob/main/images/space5.jpg?raw=true)
 
