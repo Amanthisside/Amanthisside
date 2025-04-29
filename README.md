@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+I'm+Aman+Kumar+Aswani;aka+Amanthisside;Full-Stack+Developer;+MERN+Stack+Enthusiast;Coding+is+my+playground" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amanthisside&style=flat-square&color=brightgreen" alt="Profile views" />
-</p>
+
 
 ---
 
